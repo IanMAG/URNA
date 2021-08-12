@@ -1,2 +1,2 @@
 # URNA
-Prova de 90
+Fiz individualmente, Ian Magnani.
